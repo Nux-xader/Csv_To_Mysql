@@ -1,11 +1,24 @@
-This code is used to convert the CSV file to the MySQL data base using the Python3 programming language
-
-installation:
-install git
-git clone https://github.com/Nux-xader/Csv_To_Mysql
-cd Csv_To_Mysql
-pip3 -r install requirements
-
-usage:
-set db name, host, username, password
-python3 main.py
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1>Csv Converter to Db Mysql</h1>
+<br>
+<h2>installation:</h2>
+<ul>
+	<li>install git</li>
+	<li>git clone https://github.com/Nux-xader/Csv_To_Mysql</li>
+	<li>cd Csv_To_Mysql</li>
+	<li>pip3 -r install requirements</li>
+</ul>
+<br>
+<br>
+<h2>Guide :</h2>
+<ul>
+	<li>set db name, host, username, password</li>
+	<li>python3 main.py</li>
+</ul>
+</body>
+</html>
