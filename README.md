@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+
 </head>
 <body>
 <h1>Csv Converter to Db Mysql</h1>
